@@ -3,7 +3,7 @@
 
 Guli-Admin ----后台管理系统页面
 
-Guli-Parent----前端页面（Nuxt框架）
+Guli-Parent----前台页面（Nuxt框架）
 
 
 运行方式：
